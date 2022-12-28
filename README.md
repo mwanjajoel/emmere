@@ -59,7 +59,7 @@ TBD
 
 ## Code Formatting using Black
 ```
-black momo
+black .
 ```
 
 ## How to submit an issue
